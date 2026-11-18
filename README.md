@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/WGlegola/LeetCode/tree/master/0071-simplify-path) |
 | [0249-group-shifted-strings](https://github.com/WGlegola/LeetCode/tree/master/0249-group-shifted-strings) |
 | [0336-palindrome-pairs](https://github.com/WGlegola/LeetCode/tree/master/0336-palindrome-pairs) |
+| [0394-decode-string](https://github.com/WGlegola/LeetCode/tree/master/0394-decode-string) |
 | [0680-valid-palindrome-ii](https://github.com/WGlegola/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/WGlegola/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Trie
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/WGlegola/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/WGlegola/LeetCode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/WGlegola/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0394-decode-string](https://github.com/WGlegola/LeetCode/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/WGlegola/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/WGlegola/LeetCode/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/WGlegola/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/WGlegola/LeetCode/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/WGlegola/LeetCode/tree/master/0394-decode-string) |
 ## Divide and Conquer
 |  |
 | ------- |
