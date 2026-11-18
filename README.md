@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/WGlegola/LeetCode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/WGlegola/LeetCode/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/WGlegola/LeetCode/tree/master/0049-group-anagrams) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/WGlegola/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
