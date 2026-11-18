@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/WGlegola/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/WGlegola/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0636-exclusive-time-of-functions](https://github.com/WGlegola/LeetCode/tree/master/0636-exclusive-time-of-functions) |
+| [0645-set-mismatch](https://github.com/WGlegola/LeetCode/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0249-group-shifted-strings](https://github.com/WGlegola/LeetCode/tree/master/0249-group-shifted-strings) |
 | [0336-palindrome-pairs](https://github.com/WGlegola/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/WGlegola/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/WGlegola/LeetCode/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/WGlegola/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/WGlegola/LeetCode/tree/master/0169-majority-element) |
 | [0253-meeting-rooms-ii](https://github.com/WGlegola/LeetCode/tree/master/0253-meeting-rooms-ii) |
+| [0645-set-mismatch](https://github.com/WGlegola/LeetCode/tree/master/0645-set-mismatch) |
 ## Recursion
 |  |
 | ------- |
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/WGlegola/LeetCode/tree/master/0336-palindrome-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/WGlegola/LeetCode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
