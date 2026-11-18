@@ -243,4 +243,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/WGlegola/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/WGlegola/LeetCode/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/WGlegola/LeetCode/tree/master/1148-article-views-i) |
+| [1173-immediate-food-delivery-i](https://github.com/WGlegola/LeetCode/tree/master/1173-immediate-food-delivery-i) |
 <!---LeetCode Topics End-->
