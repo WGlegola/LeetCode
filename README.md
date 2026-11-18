@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/WGlegola/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0636-exclusive-time-of-functions](https://github.com/WGlegola/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/WGlegola/LeetCode/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/WGlegola/LeetCode/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/WGlegola/LeetCode/tree/master/0253-meeting-rooms-ii) |
+| [0724-find-pivot-index](https://github.com/WGlegola/LeetCode/tree/master/0724-find-pivot-index) |
 ## Hash Function
 |  |
 | ------- |
