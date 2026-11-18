@@ -251,4 +251,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/WGlegola/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1795-rearrange-products-table](https://github.com/WGlegola/LeetCode/tree/master/1795-rearrange-products-table) |
 | [1907-count-salary-categories](https://github.com/WGlegola/LeetCode/tree/master/1907-count-salary-categories) |
+| [2082-the-number-of-rich-customers](https://github.com/WGlegola/LeetCode/tree/master/2082-the-number-of-rich-customers) |
 <!---LeetCode Topics End-->
