@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/WGlegola/LeetCode/tree/master/0739-daily-temperatures) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/WGlegola/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/WGlegola/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1470-shuffle-the-array](https://github.com/WGlegola/LeetCode/tree/master/1470-shuffle-the-array) |
 ## Two Pointers
 |  |
 | ------- |
