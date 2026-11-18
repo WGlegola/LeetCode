@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/WGlegola/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/WGlegola/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/WGlegola/LeetCode/tree/master/0200-number-of-islands) |
+| [0249-group-shifted-strings](https://github.com/WGlegola/LeetCode/tree/master/0249-group-shifted-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/WGlegola/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/WGlegola/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/WGlegola/LeetCode/tree/master/0169-majority-element) |
+| [0249-group-shifted-strings](https://github.com/WGlegola/LeetCode/tree/master/0249-group-shifted-strings) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/WGlegola/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/WGlegola/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/WGlegola/LeetCode/tree/master/0071-simplify-path) |
+| [0249-group-shifted-strings](https://github.com/WGlegola/LeetCode/tree/master/0249-group-shifted-strings) |
 ## Trie
 |  |
 | ------- |
