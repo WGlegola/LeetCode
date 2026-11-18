@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/WGlegola/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/WGlegola/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/WGlegola/LeetCode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/WGlegola/LeetCode/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/WGlegola/LeetCode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/WGlegola/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/WGlegola/LeetCode/tree/master/0636-exclusive-time-of-functions) |
+| [0739-daily-temperatures](https://github.com/WGlegola/LeetCode/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/WGlegola/LeetCode/tree/master/0645-set-mismatch) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/WGlegola/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
