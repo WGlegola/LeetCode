@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/WGlegola/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0336-palindrome-pairs](https://github.com/WGlegola/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/WGlegola/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/WGlegola/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
