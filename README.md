@@ -242,4 +242,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/WGlegola/LeetCode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/WGlegola/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/WGlegola/LeetCode/tree/master/0595-big-countries) |
+| [1148-article-views-i](https://github.com/WGlegola/LeetCode/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
