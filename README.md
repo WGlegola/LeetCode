@@ -245,4 +245,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/WGlegola/LeetCode/tree/master/1148-article-views-i) |
 | [1173-immediate-food-delivery-i](https://github.com/WGlegola/LeetCode/tree/master/1173-immediate-food-delivery-i) |
 | [1517-find-users-with-valid-e-mails](https://github.com/WGlegola/LeetCode/tree/master/1517-find-users-with-valid-e-mails) |
+| [1527-patients-with-a-condition](https://github.com/WGlegola/LeetCode/tree/master/1527-patients-with-a-condition) |
 <!---LeetCode Topics End-->
