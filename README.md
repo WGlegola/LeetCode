@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/WGlegola/LeetCode/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1762-buildings-with-an-ocean-view](https://github.com/WGlegola/LeetCode/tree/master/1762-buildings-with-an-ocean-view) |
 | [1929-concatenation-of-array](https://github.com/WGlegola/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/WGlegola/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/WGlegola/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/WGlegola/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/WGlegola/LeetCode/tree/master/1570-dot-product-of-two-sparse-vectors) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/WGlegola/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0249-group-shifted-strings](https://github.com/WGlegola/LeetCode/tree/master/0249-group-shifted-strings) |
 | [0336-palindrome-pairs](https://github.com/WGlegola/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0680-valid-palindrome-ii](https://github.com/WGlegola/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/WGlegola/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/WGlegola/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/WGlegola/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/WGlegola/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Design
 |  |
 | ------- |
