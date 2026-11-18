@@ -232,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/WGlegola/LeetCode/tree/master/1570-dot-product-of-two-sparse-vectors) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/WGlegola/LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
