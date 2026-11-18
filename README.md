@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/WGlegola/LeetCode/tree/master/0200-number-of-islands) |
 | [0249-group-shifted-strings](https://github.com/WGlegola/LeetCode/tree/master/0249-group-shifted-strings) |
 | [0253-meeting-rooms-ii](https://github.com/WGlegola/LeetCode/tree/master/0253-meeting-rooms-ii) |
+| [0336-palindrome-pairs](https://github.com/WGlegola/LeetCode/tree/master/0336-palindrome-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/WGlegola/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/WGlegola/LeetCode/tree/master/0169-majority-element) |
 | [0249-group-shifted-strings](https://github.com/WGlegola/LeetCode/tree/master/0249-group-shifted-strings) |
+| [0336-palindrome-pairs](https://github.com/WGlegola/LeetCode/tree/master/0336-palindrome-pairs) |
 ## Math
 |  |
 | ------- |
@@ -60,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/WGlegola/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/WGlegola/LeetCode/tree/master/0071-simplify-path) |
 | [0249-group-shifted-strings](https://github.com/WGlegola/LeetCode/tree/master/0249-group-shifted-strings) |
+| [0336-palindrome-pairs](https://github.com/WGlegola/LeetCode/tree/master/0336-palindrome-pairs) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/WGlegola/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0336-palindrome-pairs](https://github.com/WGlegola/LeetCode/tree/master/0336-palindrome-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -161,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/WGlegola/LeetCode/tree/master/0253-meeting-rooms-ii) |
+## Hash Function
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/WGlegola/LeetCode/tree/master/0336-palindrome-pairs) |
 <!---LeetCode Topics End-->
