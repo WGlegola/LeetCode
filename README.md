@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/WGlegola/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/WGlegola/LeetCode/tree/master/0050-powx-n) |
+| [0096-unique-binary-search-trees](https://github.com/WGlegola/LeetCode/tree/master/0096-unique-binary-search-trees) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/WGlegola/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/WGlegola/LeetCode/tree/master/0053-maximum-subarray) |
+| [0096-unique-binary-search-trees](https://github.com/WGlegola/LeetCode/tree/master/0096-unique-binary-search-trees) |
 ## Backtracking
 |  |
 | ------- |
@@ -98,4 +100,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/WGlegola/LeetCode/tree/master/0075-sort-colors) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/WGlegola/LeetCode/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/WGlegola/LeetCode/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/WGlegola/LeetCode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
