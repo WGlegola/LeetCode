@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/WGlegola/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/WGlegola/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/WGlegola/LeetCode/tree/master/1570-dot-product-of-two-sparse-vectors) |
+| [1762-buildings-with-an-ocean-view](https://github.com/WGlegola/LeetCode/tree/master/1762-buildings-with-an-ocean-view) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/WGlegola/LeetCode/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/WGlegola/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/WGlegola/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1762-buildings-with-an-ocean-view](https://github.com/WGlegola/LeetCode/tree/master/1762-buildings-with-an-ocean-view) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/WGlegola/LeetCode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/WGlegola/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1762-buildings-with-an-ocean-view](https://github.com/WGlegola/LeetCode/tree/master/1762-buildings-with-an-ocean-view) |
 ## Counting Sort
 |  |
 | ------- |
