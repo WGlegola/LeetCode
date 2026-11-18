@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/WGlegola/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/WGlegola/LeetCode/tree/master/0200-number-of-islands) |
 | [0249-group-shifted-strings](https://github.com/WGlegola/LeetCode/tree/master/0249-group-shifted-strings) |
+| [0253-meeting-rooms-ii](https://github.com/WGlegola/LeetCode/tree/master/0253-meeting-rooms-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/WGlegola/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/WGlegola/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/WGlegola/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0253-meeting-rooms-ii](https://github.com/WGlegola/LeetCode/tree/master/0253-meeting-rooms-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/WGlegola/LeetCode/tree/master/0011-container-with-most-water) |
+| [0253-meeting-rooms-ii](https://github.com/WGlegola/LeetCode/tree/master/0253-meeting-rooms-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/WGlegola/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/WGlegola/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/WGlegola/LeetCode/tree/master/0169-majority-element) |
+| [0253-meeting-rooms-ii](https://github.com/WGlegola/LeetCode/tree/master/0253-meeting-rooms-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -149,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/WGlegola/LeetCode/tree/master/0200-number-of-islands) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0253-meeting-rooms-ii](https://github.com/WGlegola/LeetCode/tree/master/0253-meeting-rooms-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0253-meeting-rooms-ii](https://github.com/WGlegola/LeetCode/tree/master/0253-meeting-rooms-ii) |
 <!---LeetCode Topics End-->
