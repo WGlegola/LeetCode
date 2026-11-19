@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/WGlegola/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/WGlegola/LeetCode/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/WGlegola/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/WGlegola/LeetCode/tree/master/0169-majority-element) |
 | [0249-group-shifted-strings](https://github.com/WGlegola/LeetCode/tree/master/0249-group-shifted-strings) |
 | [0336-palindrome-pairs](https://github.com/WGlegola/LeetCode/tree/master/0336-palindrome-pairs) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/WGlegola/LeetCode/tree/master/0146-lru-cache) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/WGlegola/LeetCode/tree/master/1570-dot-product-of-two-sparse-vectors) |
 ## Linear Algebra
 |  |
@@ -259,4 +261,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2082-the-number-of-rich-customers](https://github.com/WGlegola/LeetCode/tree/master/2082-the-number-of-rich-customers) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/WGlegola/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [2738-count-occurrences-in-text](https://github.com/WGlegola/LeetCode/tree/master/2738-count-occurrences-in-text) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/WGlegola/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/WGlegola/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
